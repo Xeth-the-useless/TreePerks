@@ -21,7 +21,7 @@
             "name": "Incident Response",
             "icon": "incident_response",
             "children" : [
-                { "name": "Forensics" },
+                { "name": "NEPE" },
                 { "name": "Network Analysis" },
                 { "name": "Threat Intelligence" },
                 { "name": "Malware Analysis" },
